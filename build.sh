@@ -1,4 +1,2 @@
 #!/bin/sh
-emacs -Q --script build.el
-
-# -Q: lädt ohne eigene emacs Konfiguration
+emacs -Q --script build-site.el
