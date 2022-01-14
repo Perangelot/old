@@ -1,0 +1,38 @@
+body {
+  background-color: #232830;
+  color: #ffffff;
+  font-family: "monospace";
+  font-size: 14px;
+}
+
+h1 {
+  color: #89AAEB;
+}
+
+h2 {
+  color: #89EBCA;
+}
+
+h3 {
+  color: #B4EB89;
+}
+
+ul li, ol li {
+  list-style-type: armenian;
+}
+
+img {
+  max-width: 100%;
+  min-width: 300px;
+  height: auto;
+}
+
+a {
+  color: #DCA432;
+  text-decoration: none;
+}
+
+pre {
+  padding: 5px;
+  border: 1px solid #3a3f5a;
+  overflow: scroll;
