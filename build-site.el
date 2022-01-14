@@ -20,7 +20,7 @@
 (setq org-html-validation-link nil            ;; Don't show validation link
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://gist.githubusercontent.com/ZachSaucier/8295d9dc926d7064ff0d4f3f04b35b55/raw/06a8cc03bbdbb7e36f7ae192f834226320f752cd/dark-theme.css\" />")
+      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
